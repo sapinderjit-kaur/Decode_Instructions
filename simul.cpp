@@ -7,7 +7,7 @@
 #define NUMREGS 8 /* number of machine registers */
 #define MAXLINELENGTH 1000
 
-// OPCODES
+// OP-codes
 #define ADD 0
 #define NAND 1
 #define LW 2

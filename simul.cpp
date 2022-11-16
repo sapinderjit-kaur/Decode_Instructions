@@ -176,7 +176,7 @@ int convertNum(int num)
 	return(num);
 }
 
-/*****************************************************************************//*****************************************************************************/
+
 
 void initialize( stateType* );
 void loadInstructions( stateType*, const char* );

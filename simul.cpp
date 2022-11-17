@@ -68,7 +68,7 @@ typedef struct stateStruct {
 	int cycles; /* number of cycles run so far */
 } stateType;
 
-/*****************************************************************************/
+
 // The following are functions that have been given.
 int
 field0(int instruction)

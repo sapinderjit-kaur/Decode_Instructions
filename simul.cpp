@@ -216,7 +216,7 @@ int main(int argc, const char *argv[])
 				 argv[0] );
 	}
 
-	// Initialize State
+	
 	stateType state, newState;
 	initialize( &state );
 	loadInstructions( &state, argv[1] );

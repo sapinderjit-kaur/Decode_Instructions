@@ -18,7 +18,7 @@
 #define NOOP 7
 #define NOOPINSTRUCTION 0x1c00000
 
-// IF/ID
+
 typedef struct IFIDStruct {
 	int instr;
 	int pcPlus1;

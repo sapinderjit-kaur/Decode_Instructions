@@ -41,7 +41,7 @@ typedef struct EXMEMStruct {
 	int readRegB;
 } EXMEMType;
 
-// MEM/
+// MEMory/
 typedef struct MEMWBStruct {
 	int instr;
 	int writeData;

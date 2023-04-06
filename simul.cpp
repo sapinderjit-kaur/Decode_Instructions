@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 #define NUMMEMORY 65536 /* maximum number of data words in memory */
-#define NUMREGS 8 /* number of machine registers */
+#define NUMREGS 8 /* number of machine registrs */
 #define MAXLINELENGTH 1000
 
 // OP-codes
